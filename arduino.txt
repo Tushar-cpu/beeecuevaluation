@@ -1,0 +1,30 @@
+AIM-Design a dice that displays a 
+          (A.)Red background when 6 comes up.
+          (B.)Green background when 4 comes up.
+          (C.)Blue background when 2 comes up.
+
+MATERIALS REQUIRED-
+          1. Arduino
+          2. Breadboard
+          3. Led(RGB) 
+          4. Connecting wires
+       
+CONCEPT-
+         Kirchhoff's law:
+                 kirchhoff's law are fundamental to circuit theory.they quantify how current flows through a circuit and how voltage varies 
+                 around a loop in a circuit.
+                   1.) kirchhoff's first law-it states that current flowing into a node must be equal to current flowing out of it.this is a
+                         consequence of charge conservation.
+                   2.)kirchhoff's second law-it states that the sum of all voltages around any closed loop in a circuit must equal to zero. 
+                        this is a consequence of charge conservation and also conservation of energy.
+
+LEARNING OUTCOMES-
+                    1.)Red led will glow when 6 comes.
+                    2.)Green led will glow when 4 comes.
+                    3.)Blue led will glow when 2 comes.
+
+PRECAUTIONS-
+                    1.)connecting wires should be tight.
+                    2.)LED's should work properly.
+                    3.)Arduino and Breadboard should be properly working                  
+             
